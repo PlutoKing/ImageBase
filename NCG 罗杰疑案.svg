@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 NCG 罗杰疑案.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.0552in" height="7.57121in"
+		viewBox="0 0 795.973 545.127" xml:space="preserve" color-interpolation-filters="sRGB" class="st42">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#fff2cc;marker-start:url(#mrkr18-4);stroke:#dc143c;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st2 {fill:#dc143c;fill-opacity:1;stroke:#dc143c;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st3 {fill:#c00000;font-family:霞鹜文楷;font-size:1.16666em}
+		.st4 {font-family:Cambria;font-size:1em}
+		.st5 {fill:#eeeaf2;stroke:#00008b;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st6 {fill:#00008b;font-family:霞鹜文楷;font-size:1.16666em}
+		.st7 {fill:#ffffff;stroke:#dc143c;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st8 {fill:#ebf1df;stroke:#00008b;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st9 {fill:#ebf1df;stroke:#dc143c;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st10 {fill:#dc143c;font-family:霞鹜文楷;font-size:1.16666em}
+		.st11 {fill:#ffffff;stroke:#00008b;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st12 {fill:#ebf1df;marker-end:url(#mrkr22-62);stroke:#00008b;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st13 {fill:#00008b;fill-opacity:1;stroke:#00008b;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st14 {marker-end:url(#mrkr14-79);stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st15 {fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st16 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st17 {fill:#000000;font-family:霞鹜文楷;font-size:0.833336em}
+		.st18 {marker-end:url(#mrkr17-91);stroke:#4bacc6;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st19 {fill:#4bacc6;fill-opacity:1;stroke:#4bacc6;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st20 {marker-end:url(#mrkr14-79);marker-start:url(#mrkr14-100);stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st21 {marker-end:url(#mrkr13-109);stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st22 {marker-end:url(#mrkr18-120);marker-start:url(#mrkr18-118);stroke:#ff3399;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st23 {fill:#ff3399;fill-opacity:1;stroke:#ff3399;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st24 {marker-end:url(#mrkr13-109);marker-start:url(#mrkr13-129);stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st25 {fill:#000000;font-family:霞鹜文楷;font-size:0.666664em}
+		.st26 {marker-end:url(#mrkr41-148);marker-start:url(#mrkr41-146);stroke:#9dbb61;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st27 {fill:#9dbb61;fill-opacity:1;stroke:#9dbb61;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st28 {font-size:1em}
+		.st29 {fill:#fcebdd;stroke:#dc143c;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st30 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st31 {fill:#fff2cc;marker-start:url(#mrkr18-229);stroke:#00008b;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st32 {fill:#bfbfbf;font-family:霞鹜文楷;font-size:1.16666em}
+		.st33 {stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st34 {marker-end:url(#mrkr23-243);stroke:#c05046;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st35 {fill:#c05046;fill-opacity:1;stroke:#c05046;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st36 {marker-end:url(#mrkr20-254);marker-start:url(#mrkr20-252);stroke:#9dbb61;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st37 {marker-end:url(#mrkr18-120);stroke:#ff3399;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st38 {fill:#31859b;font-family:方正粗黑宋简体;font-size:1.5em}
+		.st39 {fill:#000000;font-family:黑体;font-size:0.666664em}
+		.st40 {font-family:华文楷体;font-size:1em}
+		.st41 {fill:#31859b;font-family:Cooper Black;font-size:2.16666em}
+		.st42 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend18">
+			<path d="M 2 1 L 0 0 L 2.01237 -1.00641 C 2.32921 -0.372876 2.32921 0.372869 2.01238 1.0064 "
+					style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr18-4" class="st2" v:arrowType="18" v:arrowSize="2" v:setback="7.92" refX="7.92" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend18" transform="scale(3.52) "/>
+		</marker>
+		<g id="lend22">
+			<path d="M 0 0 L 2.25 -1.125 L 4.5 0 L 2.25 1.125 L 0 0 " style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr22-62" class="st13" v:arrowType="22" v:arrowSize="2" v:setback="15.84" refX="-15.84" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend22" transform="scale(-3.52,-3.52) "/>
+		</marker>
+		<g id="lend14">
+			<path d="M 3 -1 L 0 0 L 3 1 L 3 -1 " style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr14-79" class="st15" v:arrowType="14" v:arrowSize="2" v:setback="10.56" refX="-10.56" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend14" transform="scale(-3.52,-3.52) "/>
+		</marker>
+		<g id="lend17">
+			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67051 -0.362037 1.67309 0.378293 1.98815 1.00746 "
+					style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr17-91" class="st19" v:arrowType="17" v:arrowSize="2" v:setback="6.16" refX="-6.16" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend17" transform="scale(-3.52,-3.52) "/>
+		</marker>
+		<marker id="mrkr14-100" class="st15" v:arrowType="14" v:arrowSize="2" v:setback="10.2" refX="10.2" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend14" transform="scale(3.52) "/>
+		</marker>
+		<g id="lend13">
+			<path d="M 3 1 L 0 0 L 3 -1 L 3 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr13-109" class="st15" v:arrowType="13" v:arrowSize="2" v:setback="10.56" refX="-10.56" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(-3.52,-3.52) "/>
+		</marker>
+		<marker id="mrkr18-118" class="st23" v:arrowType="18" v:arrowSize="2" v:setback="7.56" refX="7.56" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend18" transform="scale(3.52) "/>
+		</marker>
+		<marker id="mrkr18-120" class="st23" v:arrowType="18" v:arrowSize="2" v:setback="7.92" refX="-7.92" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend18" transform="scale(-3.52,-3.52) "/>
+		</marker>
+		<marker id="mrkr13-129" class="st15" v:arrowType="13" v:arrowSize="2" v:setback="10.2" refX="10.2" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(3.52) "/>
+		</marker>
+		<g id="lend41">
+			<path
+					d="M 0.75 0.75 C 0.335786 0.75 0 0.414214 0 0 0 -0.414214 0.335786 -0.75 0.75 -0.75 1.16421 -0.75 1.5 -0.414214 1.5 0 1.5 0.414214 1.16421 0.75 0.75 0.75 Z "
+					style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr41-146" class="st27" v:arrowType="41" v:arrowSize="2" v:setback="4.92" refX="4.92" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend41" transform="scale(3.52) "/>
+		</marker>
+		<marker id="mrkr41-148" class="st27" v:arrowType="41" v:arrowSize="2" v:setback="5.28" refX="-5.28" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend41" transform="scale(-3.52,-3.52) "/>
+		</marker>
+		<marker id="mrkr18-229" class="st13" v:arrowType="18" v:arrowSize="2" v:setback="7.92" refX="7.92" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend18" transform="scale(3.52) "/>
+		</marker>
+		<g id="lend23">
+			<path d="M 2.5 1 L 1.5 -1 " style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr23-243" class="st35" v:arrowType="23" v:arrowSize="2" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend23" transform="scale(-3.52,-3.52) "/>
+		</marker>
+		<g id="lend20">
+			<path
+					d="M 0 0.75 C -0.414214 0.75 -0.75 0.414214 -0.75 0 -0.75 -0.414214 -0.414214 -0.75 0 -0.75 0.414214 -0.75 0.75 -0.414214 0.75 0 0.75 0.414214 0.414214 0.75 0 0.75 Z "
+					style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr20-252" class="st27" v:arrowType="20" v:arrowSize="2" v:setback="2.28" refX="2.28" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend20" transform="scale(3.52) "/>
+		</marker>
+		<marker id="mrkr20-254" class="st27" v:arrowType="20" v:arrowSize="2" v:setback="2.64" refX="-2.64" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend20" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="流程图" v:index="0"/>
+		<v:layer v:name="连接线" v:index="1"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" v:layerMember="0" transform="translate(8.62231,-374.673)">
+			<title>流程.2</title>
+			<desc>弗拉尔斯太太 Mrs. Ferrars</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="85.0394" cy="522.45" width="170.08" height="45.3543"/>
+			<rect x="0" y="499.773" width="170.079" height="45.3543" class="st1"/>
+			<text x="43.04" y="518.68" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>弗拉尔斯太太<v:newlineChar/><tspan
+						x="48.17" dy="1.231em" class="st4" v:langID="1033">Mrs. Ferrars</tspan></text>		</g>
+		<g id="shape3-7" v:mID="3" v:groupContext="shape" v:layerMember="0" transform="translate(326.103,-295.303)">
+			<title>流程.3</title>
+			<desc>詹姆斯·谢泼德医生 Dr. James Sheppard</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="85.0394" cy="522.45" width="170.08" height="45.3543"/>
+			<rect x="0" y="499.773" width="170.079" height="45.3543" class="st5"/>
+			<text x="27.06" y="518.68" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>詹姆斯<tspan class="st4">·</tspan>谢泼德医生<v:newlineChar/><tspan
+						x="26.45" dy="1.231em" class="st4">Dr. </tspan><tspan class="st4" v:langID="1033">James Sheppard</tspan></text>		</g>
+		<g id="shape5-13" v:mID="5" v:groupContext="shape" v:layerMember="0" transform="translate(326.103,-386.012)">
+			<title>流程.5</title>
+			<desc>卡洛琳·谢泼德 Caroline Sheppard</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="85.0394" cy="522.45" width="170.08" height="45.3543"/>
+			<rect x="0" y="499.773" width="170.079" height="45.3543" class="st7"/>
+			<text x="41.06" y="518.68" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>卡洛琳<tspan class="st4">·</tspan>谢泼德<v:newlineChar/><tspan
+						x="29.63" dy="1.231em" class="st4" v:langID="1033">Caroline Sheppard</tspan></text>		</g>
+		<g id="shape8-18" v:mID="8" v:groupContext="shape" v:layerMember="0" transform="translate(326.103,-215.933)">
+			<title>流程.8</title>
+			<desc>罗杰·艾克罗伊德 Roger Ackroyd</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="85.0394" cy="522.45" width="170.08" height="45.3543"/>
+			<rect x="0" y="499.773" width="170.079" height="45.3543" class="st8"/>
+			<text x="34.06" y="518.68" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>罗杰<tspan class="st4">·</tspan>艾克罗伊德<v:newlineChar/><tspan
+						x="40.53" dy="1.231em" class="st4" v:langID="1033">Roger Ackroyd</tspan></text>		</g>
+		<g id="shape9-23" v:mID="9" v:groupContext="shape" v:layerMember="0" transform="translate(609.567,-295.303)">
+			<title>流程.9</title>
+			<desc>赫尔克里·波洛 Hercule Poirot</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="85.0394" cy="522.45" width="170.08" height="45.3543"/>
+			<rect x="0" y="499.773" width="170.079" height="45.3543" class="st5"/>
+			<text x="41.06" y="518.68" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>赫尔克里<tspan
+						class="st4">·</tspan>波洛<v:newlineChar/><tspan x="41.5" dy="1.231em" class="st4" v:langID="1033">Hercule Poirot</tspan></text>		</g>
+		<g id="shape10-28" v:mID="10" v:groupContext="shape" v:layerMember="0" transform="translate(8.62231,-215.933)">
+			<title>流程.10</title>
+			<desc>塞西尔·艾克罗伊德太太 Mrs. Cecil Ackroyd</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="85.0394" cy="522.45" width="170.08" height="45.3543"/>
+			<rect x="0" y="499.773" width="170.079" height="45.3543" class="st9"/>
+			<text x="13.06" y="518.68" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>塞西尔<tspan
+						class="st4">·</tspan>艾克罗伊德太太<v:newlineChar/><tspan x="29.49" dy="1.231em" class="st4" v:langID="1033">Mrs. Cecil Ackroyd</tspan></text>		</g>
+		<g id="shape11-33" v:mID="11" v:groupContext="shape" v:layerMember="0" transform="translate(8.62231,-79.8701)">
+			<title>流程.11</title>
+			<desc>弗洛拉·艾克罗伊德 Flora Ackroyd</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="85.0394" cy="522.45" width="170.08" height="45.3543"/>
+			<rect x="0" y="499.773" width="170.079" height="45.3543" class="st9"/>
+			<text x="27.06" y="518.68" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>弗洛拉<tspan
+						class="st4">·</tspan>艾克罗伊德<v:newlineChar/><tspan x="42.67" dy="1.231em" class="st4" v:langID="1033">Flora Ackroyd</tspan></text>		</g>
+		<g id="shape12-38" v:mID="12" v:groupContext="shape" v:layerMember="0" transform="translate(360.118,-0.5)">
+			<title>流程.12</title>
+			<desc>厄休拉·伯恩 Ursula Bourne</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="85.0394" cy="522.45" width="170.08" height="45.3543"/>
+			<rect x="0" y="499.773" width="170.079" height="45.3543" class="st9"/>
+			<text x="48.06" y="518.68" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>厄休拉<tspan
+						class="st4">·</tspan>伯恩<v:newlineChar/><tspan x="41.8" dy="1.231em" class="st4" v:langID="1033">Ursula Bourne</tspan></text>		</g>
+		<g id="shape13-43" v:mID="13" v:groupContext="shape" v:layerMember="0" transform="translate(122.008,-159.24)">
+			<title>流程.13</title>
+			<desc>赫克托·布兰特少校 Major Hector Blunt</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="85.0394" cy="522.45" width="170.08" height="45.3543"/>
+			<rect x="0" y="499.773" width="170.079" height="45.3543" class="st11"/>
+			<text x="27.06" y="518.68" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>赫克托<tspan class="st4">·</tspan>布兰特少校<v:newlineChar/><tspan
+						x="27.75" dy="1.231em" class="st4" v:langID="1033">Major Hector Blunt</tspan></text>		</g>
+		<g id="shape14-48" v:mID="14" v:groupContext="shape" v:layerMember="0" transform="translate(609.567,-159.24)">
+			<title>流程.14</title>
+			<desc>约翰·帕克 John Parker</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="85.0394" cy="522.45" width="170.08" height="45.3543"/>
+			<rect x="0" y="499.773" width="170.079" height="45.3543" class="st8"/>
+			<text x="55.06" y="518.68" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>约翰<tspan class="st4">·</tspan>帕克<v:newlineChar/><tspan
+						x="49.6" dy="1.231em" class="st4">John </tspan><tspan class="st4" v:langID="1033">Parker</tspan></text>		</g>
+		<g id="shape15-54" v:mID="15" v:groupContext="shape" v:layerMember="0" transform="translate(235.394,-79.8701)">
+			<title>流程.15</title>
+			<desc>拉尔夫·佩顿上尉 Captain Ralph Paton</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="85.0394" cy="522.45" width="170.08" height="45.3543"/>
+			<rect x="0" y="499.773" width="170.079" height="45.3543" class="st8"/>
+			<text x="34.06" y="518.68" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>拉尔夫<tspan class="st4">·</tspan>佩顿上尉<v:newlineChar/><tspan
+						x="24.26" dy="1.231em" class="st4" v:langID="1033">Captain Ralph Paton</tspan></text>		</g>
+		<g id="shape16-59" v:mID="16" v:groupContext="shape" v:layerMember="0" transform="translate(609.567,-215.933)">
+			<title>流程.16</title>
+			<desc>杰弗里·雷蒙德 Geoffrey Raymond</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="85.0394" cy="522.45" width="170.08" height="45.3543"/>
+			<rect x="0" y="499.773" width="170.079" height="45.3543" class="st12"/>
+			<text x="41.06" y="518.68" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>杰弗里<tspan class="st4">·</tspan>雷蒙德<v:newlineChar/><tspan
+						x="29.4" dy="1.231em" class="st4" v:langID="1033">Geoffrey Raymond</tspan></text>		</g>
+		<g id="shape17-66" v:mID="17" v:groupContext="shape" v:layerMember="0" transform="translate(8.62231,-306.642)">
+			<title>流程.17</title>
+			<desc>哈蒙德先生 Mr. Hammond</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="85.0394" cy="522.45" width="170.08" height="45.3543"/>
+			<rect x="0" y="499.773" width="170.079" height="45.3543" class="st11"/>
+			<text x="50.04" y="518.68" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>哈蒙德先生<v:newlineChar/><tspan
+						x="42.08" dy="1.231em" class="st4" v:langID="1033">Mr. Hammond</tspan></text>		</g>
+		<g id="shape18-70" v:mID="18" v:groupContext="shape" v:layerMember="0" transform="translate(609.567,-386.012)">
+			<title>流程.18</title>
+			<desc>甘尼特小姐 Miss Ganett</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="85.0394" cy="522.45" width="170.08" height="45.3543"/>
+			<rect x="0" y="499.773" width="170.079" height="45.3543" class="st7"/>
+			<text x="50.04" y="518.68" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>甘尼特小姐<v:newlineChar/><tspan
+						x="50.08" dy="1.231em" class="st4" v:langID="1033">Miss Ganett</tspan></text>		</g>
+		<g id="shape27-74" v:mID="27" v:groupContext="shape" v:layerMember="1" transform="translate(330.355,-215.933)">
+			<title>动态连接线</title>
+			<desc>养子</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="590.481" width="50" height="21.2297"/>
+			<path d="M7.09 545.13 L7.09 625.28" class="st14"/>
+			<rect v:rectContext="textBkgnd" x="-2.91348" y="583.869" width="20.0001" height="13.2262" class="st16"/>
+			<text x="-2.91" y="593.79" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>养子</text>		</g>
+		<g id="shape29-82" v:mID="29" v:groupContext="shape" v:layerMember="0" transform="translate(609.567,-102.547)">
+			<title>流程.29</title>
+			<desc>拉塞尔小姐 Miss Russell</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="85.0394" cy="522.45" width="170.08" height="45.3543"/>
+			<rect x="0" y="499.773" width="170.079" height="45.3543" class="st9"/>
+			<text x="50.04" y="518.68" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>拉塞尔小姐<v:newlineChar/><tspan
+						x="48.39" dy="1.231em" class="st4" v:langID="1033">Miss Russell</tspan></text>		</g>
+		<g id="shape30-86" v:mID="30" v:groupContext="shape" v:layerMember="1" transform="translate(473.504,-215.933)">
+			<title>动态连接线.30</title>
+			<desc>女管家</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="90.7087" cy="635.836" width="50" height="21.2297"/>
+			<path d="M0 545.13 L0 635.84 L129.9 635.84" class="st18"/>
+			<rect v:rectContext="textBkgnd" x="75.7087" y="629.223" width="30.0001" height="13.2262" class="st16"/>
+			<text x="75.71" y="639.14" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>女管家</text>		</g>
+		<g id="shape31-94" v:mID="31" v:groupContext="shape" v:layerMember="1" transform="translate(326.103,-231.524)">
+			<title>动态连接线.31</title>
+			<desc>兄长和弟妹</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-70.8661" cy="538.04" width="60.21" height="21.2297"/>
+			<path d="M-10.2 538.04 L-10.56 538.04 L-136.84 538.04" class="st20"/>
+			<rect v:rectContext="textBkgnd" x="-95.8662" y="531.428" width="50.0002" height="13.2262" class="st16"/>
+			<text x="-95.87" y="541.35" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>兄长和弟妹</text>		</g>
+		<g id="shape32-104" v:mID="32" v:groupContext="shape" v:layerMember="1" transform="translate(86.5751,-215.933)">
+			<title>动态连接线.32</title>
+			<desc>女儿</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="590.481" width="50" height="21.2297"/>
+			<path d="M7.09 545.13 L7.09 625.28" class="st21"/>
+			<rect v:rectContext="textBkgnd" x="-2.91348" y="583.869" width="20.0001" height="13.2262" class="st16"/>
+			<text x="-2.91" y="593.79" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>女儿</text>		</g>
+		<g id="shape33-112" v:mID="33" v:groupContext="shape" v:layerMember="1" transform="translate(178.701,-95.4606)">
+			<title>动态连接线.33</title>
+			<desc>订婚</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="538.04" width="50" height="21.2297"/>
+			<path d="M7.56 538.04 L7.92 538.04 L48.77 538.04" class="st22"/>
+			<rect v:rectContext="textBkgnd" x="18.3464" y="531.428" width="20.0001" height="13.2262" class="st16"/>
+			<text x="18.35" y="541.35" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>订婚</text>		</g>
+		<g id="shape36-123" v:mID="36" v:groupContext="shape" v:layerMember="1" transform="translate(404.055,-386.012)">
+			<title>动态连接线.36</title>
+			<desc>姐弟</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="567.804" width="40" height="18.5844"/>
+			<path d="M7.09 555.33 L7.09 555.69 L7.09 579.92" class="st24"/>
+			<rect v:rectContext="textBkgnd" x="-0.913294" y="562.514" width="15.9999" height="10.5809" class="st16"/>
+			<text x="-0.91" y="570.45" class="st25" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>姐弟</text>		</g>
+		<g id="shape37-133" v:mID="37" v:groupContext="shape" v:layerMember="1" transform="translate(404.055,-261.287)">
+			<title>动态连接线.37</title>
+			<desc>医生</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08662" cy="530.16" width="50" height="21.2297"/>
+			<path d="M7.09 545.13 L7.09 517.27" class="st18"/>
+			<rect v:rectContext="textBkgnd" x="-2.91347" y="523.547" width="20.0001" height="13.2262" class="st16"/>
+			<text x="-2.91" y="533.47" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>医生</text>		</g>
+		<g id="shape38-140" v:mID="38" v:groupContext="shape" v:layerMember="1" transform="translate(496.181,-401.602)">
+			<title>动态连接线.38</title>
+			<desc>长舌团 牌友</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="538.04" width="50" height="34.4558"/>
+			<path d="M4.92 538.04 L5.28 538.04 L108.11 538.04" class="st26"/>
+			<rect v:rectContext="textBkgnd" x="41.6929" y="524.815" width="30.0001" height="26.4521" class="st16"/>
+			<text x="41.69" y="534.73" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>长舌团<v:newlineChar/><tspan
+						x="46.69" dy="1.323em" class="st28">牌友</tspan></text>		</g>
+		<g id="shape48-152" v:mID="48" v:groupContext="shape" v:layerMember="1" transform="translate(496.181,-227.272)">
+			<title>动态连接线.48</title>
+			<desc>男管家</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="68.0315" cy="590.481" width="50" height="21.2297"/>
+			<path d="M0 545.13 L21.26 545.13 L21.26 590.48 L107.23 590.48" class="st18"/>
+			<rect v:rectContext="textBkgnd" x="53.0315" y="583.869" width="30.0001" height="13.2262" class="st16"/>
+			<text x="53.03" y="593.79" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>男管家</text>		</g>
+		<g id="shape49-159" v:mID="49" v:groupContext="shape" v:layerMember="1" transform="translate(496.181,-231.524)">
+			<title>动态连接线.49</title>
+			<desc>秘书</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="68.0315" cy="538.04" width="50" height="21.2297"/>
+			<path d="M0 538.04 L107.23 538.04" class="st18"/>
+			<rect v:rectContext="textBkgnd" x="58.0314" y="531.428" width="20.0001" height="13.2262" class="st16"/>
+			<text x="58.03" y="541.35" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>秘书</text>		</g>
+		<g id="shape50-166" v:mID="50" v:groupContext="shape" v:layerMember="1" transform="translate(292.087,-181.917)">
+			<title>动态连接线.50</title>
+			<desc>朋友</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="16.8189" cy="522.261" width="50" height="21.2297"/>
+			<path d="M4.92 545.13 L5.28 545.13 L16.82 545.13 L16.82 499.77 L28.74 499.77" class="st26"/>
+			<rect v:rectContext="textBkgnd" x="6.81881" y="515.648" width="20.0001" height="13.2262" class="st16"/>
+			<text x="6.82" y="525.57" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>朋友</text>		</g>
+		<g id="shape51-175" v:mID="51" v:groupContext="shape" v:layerMember="1" transform="translate(443.74,-215.933)">
+			<title>动态连接线.51</title>
+			<desc>客 厅 女 仆</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="630.166" width="50" height="60.908"/>
+			<path d="M7.09 545.13 L7.09 709.05" class="st18"/>
+			<rect v:rectContext="textBkgnd" x="2.08668" y="603.714" width="10" height="52.9044" class="st16"/>
+			<text x="2.09" y="613.63" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>客<v:newlineChar/><tspan
+						x="2.09" dy="1.323em" class="st28">厅<v:newlineChar/></tspan><tspan x="2.09" dy="1.323em" class="st28">女<v:newlineChar/></tspan><tspan
+						x="2.09" dy="1.323em" class="st28">仆</tspan></text>		</g>
+		<g id="shape52-185" v:mID="52" v:groupContext="shape" v:layerMember="1" transform="translate(86.5751,-261.287)">
+			<title>动态连接线.52</title>
+			<desc>律师</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="522.45" width="50" height="21.2297"/>
+			<path d="M7.09 545.13 L7.09 505.93" class="st18"/>
+			<rect v:rectContext="textBkgnd" x="-2.91348" y="515.837" width="20.0001" height="13.2262" class="st16"/>
+			<text x="-2.91" y="525.76" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>律师</text>		</g>
+		<g id="shape53-192" v:mID="53" v:groupContext="shape" v:layerMember="0" transform="translate(8.62232,-0.5)">
+			<title>流程.53</title>
+			<desc>理查德·福利奥特太太 Mrs. Richard Folliott</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="85.0394" cy="522.45" width="170.08" height="45.3543"/>
+			<rect x="0" y="499.773" width="170.079" height="45.3543" class="st29"/>
+			<text x="20.06" y="518.68" class="st3" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>理查德<tspan class="st4">·</tspan>福利奥特太太<v:newlineChar/><tspan
+						x="23.8" dy="1.231em" class="st4" v:langID="1033">Mrs. Richard Folliott</tspan></text>		</g>
+		<g id="shape54-197" v:mID="54" v:groupContext="shape" v:layerMember="1" transform="translate(178.701,-16.0906)">
+			<title>动态连接线.54</title>
+			<desc>前女仆</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="90.7087" cy="538.04" width="50" height="21.2297"/>
+			<path d="M0 538.04 L175.26 538.04" class="st18"/>
+			<rect v:rectContext="textBkgnd" x="75.7087" y="531.428" width="30.0001" height="13.2262" class="st16"/>
+			<text x="75.71" y="541.35" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>前女仆</text>		</g>
+		<g id="shape57-204" v:mID="57" v:groupContext="shape" v:layerMember="1" transform="translate(496.181,-310.894)">
+			<title>动态连接线.57</title>
+			<desc>邻居 一起调查案件</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="538.04" width="70.21" height="34.4558"/>
+			<path d="M4.92 538.04 L5.28 538.04 L108.11 538.04" class="st26"/>
+			<rect v:rectContext="textBkgnd" x="26.6928" y="524.815" width="60.0002" height="26.4521" class="st16"/>
+			<text x="46.69" y="534.73" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>邻居<v:newlineChar/><tspan
+						x="26.69" dy="1.323em" class="st28">一起调查案件</tspan></text>		</g>
+		<g id="shape60-214" v:mID="60" v:groupContext="shape" v:layerMember="0" transform="translate(609.567,-465.382)">
+			<title>流程.60</title>
+			<desc>卡特上校 Colonel Carter</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="85.0394" cy="522.45" width="170.08" height="45.3543"/>
+			<rect x="0" y="499.773" width="170.079" height="45.3543" class="st11"/>
+			<text x="57.04" y="518.68" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>卡特上校<v:newlineChar/><tspan
+						x="42.08" dy="1.231em" class="st4" v:langID="1033">Colonel Carter</tspan></text>		</g>
+		<g id="shape61-218" v:mID="61" v:groupContext="shape" v:layerMember="0" transform="translate(609.567,-0.5)">
+			<title>流程.61</title>
+			<desc>查尔斯·肯特 Charles Kent</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="85.0394" cy="522.45" width="170.08" height="45.3543"/>
+			<rect x="0" y="499.773" width="170.079" height="45.3543" class="st11"/>
+			<text x="48.06" y="518.68" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>查尔斯<tspan class="st4">·</tspan>肯特<v:newlineChar/><tspan
+						x="46.97" dy="1.231em" class="st4" v:langID="1033">Charles Kent</tspan></text>		</g>
+		<g id="shape64-223" v:mID="64" v:groupContext="shape" transform="translate(348.78,-204.595)">
+			<title>工作表.64</title>
+			<desc>芬利庄园主人死者</desc>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="45.3543" cy="539.458" width="90.71" height="11.3386"/>
+			<rect x="0" y="533.788" width="90.7087" height="11.3386" class="st30"/>
+			<text x="2" y="542.1" class="st25" v:langID="2052"><v:paragraph/><v:tabList/>芬利庄园主人，死者</text>		</g>
+		<g id="shape68-226" v:mID="68" v:groupContext="shape" v:layerMember="0" transform="translate(8.62231,-465.382)">
+			<title>流程.68</title>
+			<desc>阿什利·弗拉尔斯 Mr. Ferrars</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="进程编号" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="所有者" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="函数" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="开始日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="结束日期" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="2052" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="状态" v:prompt="" v:type="4" v:format=";未开始;进行中;已完成;已推迟;正在等待输入" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="2052" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="85.0394" cy="522.45" width="170.08" height="45.3543"/>
+			<rect x="0" y="499.773" width="170.079" height="45.3543" class="st31"/>
+			<text x="34.06" y="518.68" class="st32" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>阿什利<tspan
+						class="st4">·</tspan>弗拉尔斯<v:newlineChar/><tspan x="51.18" dy="1.231em" class="st4" v:langID="1033">Mr. Ferrars</tspan></text>		</g>
+		<g id="shape69-233" v:mID="69" v:groupContext="shape" v:layerMember="1" transform="translate(58.2286,-420.028)">
+			<title>动态连接线.69</title>
+			<desc>夫妻</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="522.45" width="50" height="21.2297"/>
+			<path d="M7.09 545.13 L7.09 499.77" class="st33"/>
+			<rect v:rectContext="textBkgnd" x="-2.91348" y="515.837" width="20.0001" height="13.2262" class="st16"/>
+			<text x="-2.91" y="525.76" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>夫妻</text>		</g>
+		<g id="shape70-238" v:mID="70" v:groupContext="shape" v:layerMember="1" transform="translate(114.922,-420.028)">
+			<title>动态连接线.70</title>
+			<desc>毒杀</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="522.45" width="50" height="21.2297"/>
+			<path d="M7.09 545.13 L7.09 499.77" class="st34"/>
+			<rect v:rectContext="textBkgnd" x="-2.91348" y="515.837" width="20.0001" height="13.2262" class="st16"/>
+			<text x="-2.91" y="525.76" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>毒杀</text>		</g>
+		<g id="shape75-246" v:mID="75" v:groupContext="shape" v:layerMember="1" transform="translate(687.52,-431.366)">
+			<title>动态连接线.75</title>
+			<desc>长舌团</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="528.119" width="50" height="21.2297"/>
+			<path d="M7.09 542.85 L7.09 542.49 L7.09 513.75" class="st36"/>
+			<rect v:rectContext="textBkgnd" x="-7.91336" y="521.506" width="30.0001" height="13.2262" class="st16"/>
+			<text x="-7.91" y="531.43" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>长舌团</text>		</g>
+		<g id="shape76-257" v:mID="76" v:groupContext="shape" v:layerMember="1" transform="translate(411.142,-431.366)">
+			<title>动态连接线.76</title>
+			<desc>长舌团 牌友</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="70.8661" cy="488.434" width="50" height="34.4558"/>
+			<path d="M0 540.21 L0 539.85 L0 488.43 L193.15 488.43" class="st26"/>
+			<rect v:rectContext="textBkgnd" x="55.8662" y="475.208" width="30.0001" height="26.4521" class="st16"/>
+			<text x="55.87" y="485.13" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>长舌团<v:newlineChar/><tspan
+						x="60.87" dy="1.323em" class="st28">牌友</tspan></text>		</g>
+		<g id="shape77-267" v:mID="77" v:groupContext="shape" v:layerMember="1" transform="translate(687.52,-102.547)">
+			<title>动态连接线.77</title>
+			<desc>儿子</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="573.473" width="50" height="21.2297"/>
+			<path d="M7.09 545.13 L7.09 591.26" class="st21"/>
+			<rect v:rectContext="textBkgnd" x="-2.91348" y="566.861" width="20.0001" height="13.2262" class="st16"/>
+			<text x="-2.91" y="576.78" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>儿子</text>		</g>
+		<g id="shape78-274" v:mID="78" v:groupContext="shape" v:layerMember="1" transform="translate(148.937,-159.24)">
+			<title>动态连接线.78</title>
+			<desc>爱慕</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="562.135" width="50" height="21.2297"/>
+			<path d="M7.09 545.13 L7.09 571.22" class="st37"/>
+			<rect v:rectContext="textBkgnd" x="-2.91348" y="555.522" width="20.0001" height="13.2262" class="st16"/>
+			<text x="-2.91" y="565.44" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>爱慕</text>		</g>
+		<g id="shape79-281" v:mID="79" v:groupContext="shape" v:layerMember="1" transform="translate(375.709,-45.8543)">
+			<title>动态连接线.79</title>
+			<desc>夫妻</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="528.119" width="50" height="21.2297"/>
+			<path d="M7.09 545.13 L7.09 511.11" class="st33"/>
+			<rect v:rectContext="textBkgnd" x="-2.91348" y="521.506" width="20.0001" height="13.2262" class="st16"/>
+			<text x="-2.91" y="531.43" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>夫妻</text>		</g>
+		<g id="shape86-286" v:mID="86" v:groupContext="shape" transform="translate(190.04,-476.721)">
+			<title>工作表.86</title>
+			<desc>《罗杰疑案》人物关系图</desc>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="102.047" cy="528.119" width="204.1" height="34.0157"/>
+			<rect x="0" y="511.111" width="204.094" height="34.0157" class="st30"/>
+			<text x="3.05" y="533.52" class="st38" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>《罗杰疑案》人物关系图</text>		</g>
+		<g id="shape88-289" v:mID="88" v:groupContext="shape" transform="translate(201.378,-465.382)">
+			<title>工作表.88</title>
+			<desc>作者【英】阿加莎·克里斯蒂</desc>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="62.3622" cy="539.576" width="124.73" height="11.1024"/>
+			<rect x="0" y="534.025" width="124.724" height="11.1024" class="st30"/>
+			<text x="2" y="542.12" class="st39" v:langID="2052"><v:paragraph/><v:tabList/>作者：<tspan class="st40">【</tspan><tspan
+						class="st40">英</tspan><tspan class="st40">】</tspan><tspan class="st40">阿加莎</tspan><tspan class="st40">·</tspan><tspan
+						class="st40">克里斯蒂</tspan></text>		</g>
+		<g id="shape89-298" v:mID="89" v:groupContext="shape" transform="translate(201.378,-454.043)">
+			<title>工作表.89</title>
+			<desc>制图亦贤同学</desc>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="51.0236" cy="539.576" width="102.05" height="11.1024"/>
+			<rect x="0" y="534.025" width="102.047" height="11.1024" class="st30"/>
+			<text x="2" y="542.12" class="st39" v:langID="2052"><v:paragraph/><v:tabList/>制图：<tspan class="st40">亦贤同学</tspan></text>		</g>
+		<g id="shape90-302" v:mID="90" v:groupContext="shape" v:layerMember="1" transform="translate(178.701,-397.35)">
+			<title>动态连接线.90</title>
+			<desc>爱情</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="33.4488" cy="659.08" width="50" height="21.2297"/>
+			<path d="M7.56 545.13 L7.92 545.13 L33.45 545.13 L33.45 692.53 L139.48 692.53" class="st22"/>
+			<rect v:rectContext="textBkgnd" x="23.4487" y="652.467" width="20.0001" height="13.2262" class="st16"/>
+			<text x="23.45" y="662.39" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>爱情</text>		</g>
+		<g id="shape91-311" v:mID="91" v:groupContext="shape" transform="translate(326.103,-261.287)">
+			<title>工作表.91</title>
+			<rect v:rectContext="foreign" x="0" y="522.45" width="22.6772" height="22.6772" class="st30"/>
+			<switch>
+				<foreignObject x="0" y="522.45" width="22.6772" height="22.6772"
+						requiredExtensions="http://schemas.microsoft.com/visio/2003/SVGExtensions/">
+					<v:foreignData v:orgSize="6292" v:data="data:metafile;base64,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"/>
+				</foreignObject>
+				<!-- Unsupported Record: EmfPlusRecordTypeSetPixelOffsetMode  -->
+				<svg viewBox="-0.70871 -0.70869 600.04 600.02" height="22.6772" preserveAspectRatio="none" width="22.6772" x="0"
+						y="522.45">
+					<clipPath id="mfid1">
+						<rect x="-0.70871" y="-0.70869" width="600.04" height="600.02" id="mfid2"/>
+					</clipPath>
+					<g clip-path="url(#mfid1)">
+						<mask id="mfid3">
+							<rect width="600" height="600" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid4" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid3)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<mask id="mfid5" fill-rule="evenodd" fill="white" stroke="none">
+							<rect x="0" y="0" width="600" height="600"/>
+						</mask>
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid6" d="M0,0 L914400,0 L914400,914400 L0,914400 Z"/>
+						</defs>
+						<mask id="mfid7">
+							<use xlink:href="#mfid6" fill-rule="evenodd" fill="white" stroke="none"
+									transform="matrix(0.00065617, 0, 0, 0.00065617, 0, 0)"/>
+						</mask>
+						<mask id="mfid8" fill="white" stroke="none">
+							<g mask="url(#mfid4)">
+								<g mask="url(#mfid7)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<!-- Unsupported Record: EmfPlusRecordTypeSetPixelOffsetMode  -->
+							<svg viewBox="-0.70871 -0.70869 96.149 96.145" height="96" id="mfid9" width="96">
+								<clipPath id="mfid10">
+									<rect x="-0.70871" y="-0.70869" width="96.149" height="96.145" id="mfid11"/>
+								</clipPath>
+								<g clip-path="url(#mfid10)">
+									<mask id="mfid12">
+										<rect width="96" height="96" fill="white" stroke="none"/>
+									</mask>
+									<mask id="mfid13" fill="white" stroke="none">
+										<g>
+											<g mask="url(#mfid12)">
+												<use xlink:href="#mfid11"/>
+											</g>
+										</g>
+									</mask>
+									<defs>
+										<path id="mfid14"
+												d="M45,50 C45,54.418 41.418,58 37,58 C32.582,58 29,54.418 29,50 C29,45.582 32.582,42 37,42 C41.418,42 45,45.582 45,50 Z"/>
+									</defs>
+									<g mask="url(#mfid13)">
+										<g transform="matrix(1, 0, 0, 1, 0, 0)">
+											<g fill="#000000">
+												<use xlink:href="#mfid14" fill-rule="nonzero" stroke="none"/>
+												<defs>
+													<path id="mfid15"
+															d="M67,50 C67,54.418 63.418,58 59,58 C54.582,58 51,54.418 51,50 C51,45.582 54.582,42 59,42 C63.418,42 67,45.582 67,50 Z"/>
+												</defs>
+												<use xlink:href="#mfid15" fill-rule="nonzero" stroke="none"/>
+												<defs>
+													<path id="mfid16"
+															d="M52.13,63.88 C52.715,64.855 52.399,66.121 51.424,66.706 C51.105,66.897 50.741,66.999 50.37,67 L45.63,67 C44.492,66.996 43.573,66.071 43.576,64.934 C43.577,64.562 43.679,64.198 43.87,63.88 L46.24,59.94 C46.82,58.968 48.079,58.651 49.051,59.231 C49.342,59.405 49.586,59.649 49.76,59.94 Z"/>
+												</defs>
+												<use xlink:href="#mfid16" fill-rule="nonzero" stroke="none"/>
+												<defs>
+													<path id="mfid17"
+															d="M48,9 C30.91,9 17,24 17,42.5 C17,49.83 19.1,55.73 24,62.04 L24,67.04 C23.924,71.662 27.401,75.573 32,76.04 L32,84.04 C32,85.697 33.343,87.04 35,87.04 L61,87.04 C62.657,87.04 64,85.697 64,84.04 L64,76 C68.599,75.533 72.076,71.622 72,67 L72,62 C76.9,55.69 79,49.79 79,42.46 C79,24 65.09,9 48,9 Z M66.67,59.11 C66.237,59.645 66,60.312 66,61 L66,67 C66.039,68.618 64.759,69.961 63.142,70 C63.095,70.001 63.047,70.001 63,70 L61,70 C59.343,70 58,71.343 58,73 L58,81 L54,81 L54,75 L50,75 L50,81 L46,81 L46,75 L42,75 L42,81 L38,81 L38,73 C38,71.343 36.657,70 35,70 L33,70 C31.382,70.039 30.039,68.759 30,67.142 C29.999,67.094 29.999,67.047 30,67 L30,61 C30,60.312 29.764,59.645 29.33,59.11 C24.83,53.56 23,48.75 23,42.5 C23,27.34 34.21,15 48,15 C61.79,15 73,27.34 73,42.5 C73,48.75 71.17,53.56 66.67,59.11 Z"/>
+												</defs>
+												<use xlink:href="#mfid17" fill-rule="nonzero" stroke="none"/>
+											</g>
+										</g>
+									</g>
+								</g>
+							</svg>
+						</defs>
+						<!-- Unsupported Record: EmfPlusRecordTypeSetObject Obj_ImageAttributes -->
+						<g mask="url(#mfid8)">
+							<g transform="matrix(6.1761, 0, 0, 6.1763, 4.3771, 4.3771)">
+								<clipPath id="mfid18">
+									<rect x="-0.70871" y="-0.70869" width="97.149" height="97.145"/>
+								</clipPath>
+								<use xlink:href="#mfid9" clip-path="url(#mfid18)" transform="matrix(1, 0, 0, 1, 0, 0)"/>
+							</g>
+						</g>
+						<mask id="mfid19">
+							<rect width="600" height="600" fill="white" stroke="none"/>
+						</mask>
+					</g>
+				</svg>
+			</switch>
+			<rect v:rectContext="foreign" x="0" y="522.45" width="22.6772" height="22.6772" class="st30"/>
+		</g>
+		<g id="shape92-314" v:mID="92" v:groupContext="shape" transform="translate(609.567,-340.658)">
+			<title>工作表.92</title>
+			<rect v:rectContext="foreign" x="0" y="522.45" width="22.6772" height="22.6772" class="st30"/>
+			<switch>
+				<foreignObject x="0" y="522.45" width="22.6772" height="22.6772"
+						requiredExtensions="http://schemas.microsoft.com/visio/2003/SVGExtensions/">
+					<v:foreignData v:orgSize="6144" v:data="data:metafile;base64,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"/>
+				</foreignObject>
+				<!-- Unsupported Record: EmfPlusRecordTypeSetPixelOffsetMode  -->
+				<svg viewBox="-0.70871 -0.70869 600.04 600.02" height="22.6772" preserveAspectRatio="none" width="22.6772" x="0"
+						y="522.45">
+					<clipPath id="mfid20">
+						<rect x="-0.70871" y="-0.70869" width="600.04" height="600.02" id="mfid21"/>
+					</clipPath>
+					<g clip-path="url(#mfid20)">
+						<mask id="mfid22">
+							<rect width="600" height="600" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid23" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid22)">
+									<use xlink:href="#mfid21"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<mask id="mfid24" fill-rule="evenodd" fill="white" stroke="none">
+							<rect x="0" y="0" width="600" height="600"/>
+						</mask>
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid25" d="M0,0 L914400,0 L914400,914400 L0,914400 Z"/>
+						</defs>
+						<mask id="mfid26">
+							<use xlink:href="#mfid25" fill-rule="evenodd" fill="white" stroke="none"
+									transform="matrix(0.00065617, 0, 0, 0.00065617, 0, 0)"/>
+						</mask>
+						<mask id="mfid27" fill="white" stroke="none">
+							<g mask="url(#mfid23)">
+								<g mask="url(#mfid26)">
+									<use xlink:href="#mfid21"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<!-- Unsupported Record: EmfPlusRecordTypeSetPixelOffsetMode  -->
+							<svg viewBox="-0.70871 -0.70869 96.149 96.145" height="96" id="mfid28" width="96">
+								<clipPath id="mfid29">
+									<rect x="-0.70871" y="-0.70869" width="96.149" height="96.145" id="mfid30"/>
+								</clipPath>
+								<g clip-path="url(#mfid29)">
+									<mask id="mfid31">
+										<rect width="96" height="96" fill="white" stroke="none"/>
+									</mask>
+									<mask id="mfid32" fill="white" stroke="none">
+										<g>
+											<g mask="url(#mfid31)">
+												<use xlink:href="#mfid30"/>
+											</g>
+										</g>
+									</mask>
+									<defs>
+										<path id="mfid33"
+												d="M76.8,59.6 C74.024,57.392 70.946,55.594 67.66,54.26 L63.42,59.55 L64.61,60.34 L66.12,61.34 L65.26,63 L55,82 L80,82 L80,66 C79.948,63.495 78.773,61.145 76.8,59.6 Z"/>
+									</defs>
+									<g mask="url(#mfid32)">
+										<g transform="matrix(1, 0, 0, 1, 0, 0)">
+											<g fill="#000000">
+												<use xlink:href="#mfid33" fill-rule="nonzero" stroke="none"/>
+												<defs>
+													<path id="mfid34"
+															d="M30.74,63 L29.88,61.39 L31.39,60.39 L32.58,59.6 L28.41,54.39 C25.167,55.802 22.081,57.548 19.2,59.6 C17.227,61.145 16.052,63.495 16,66 L16,82 L41,82 Z"/>
+												</defs>
+												<use xlink:href="#mfid34" fill-rule="nonzero" stroke="none"/>
+												<defs>
+													<path id="mfid35"
+															d="M67.26,23.7 L63,23.7 L58.59,10.49 C58.277,8.1415 56.119,6.4917 53.77,6.8051 C52.801,6.9345 51.904,7.3914 51.23,8.1 L51.23,8.1 C49.471,9.9714 46.528,10.063 44.657,8.304 C44.617,8.2667 44.578,8.2287 44.54,8.19 L44.24,7.89 C42.537,6.243 39.821,6.2886 38.174,7.9919 C37.526,8.662 37.114,9.5248 37,10.45 L32,23.7 L27.74,23.7 C26.452,23.675 25.326,24.562 25.05,25.82 C24.757,27.254 25.683,28.654 27.117,28.947 C27.292,28.982 27.471,29 27.65,29 L67.35,29 C68.813,29.03 70.023,27.867 70.053,26.404 C70.057,26.208 70.039,26.012 70,25.82 C69.72,24.543 68.566,23.65 67.26,23.7 Z"/>
+												</defs>
+												<use xlink:href="#mfid35" fill-rule="nonzero" stroke="none"/>
+												<defs>
+													<path id="mfid36"
+															d="M50.45,55.75 L52,49.75 L44,49.75 L45.55,55.75 L50.45,55.75 Z"/>
+												</defs>
+												<use xlink:href="#mfid36" fill-rule="nonzero" stroke="none"/>
+												<defs>
+													<path id="mfid37"
+															d="M68.5,50 L57.17,43.09 C60.863,40.501 63.293,36.474 63.86,32 L32.14,32 C32.705,36.478 35.134,40.509 38.83,43.1 L27.5,50 L35.5,60 L32.5,62 L43.26,82 L45.5,82 L45.5,82 L50.5,82 L50.5,82 L52.74,82 L63.5,62 L60.5,60 Z M51.2,77.25 L50.32,57.75 L45.68,57.75 L44.8,77.25 L39.8,43.75 C44.836,46.741 51.104,46.741 56.14,43.75 Z"/>
+												</defs>
+												<use xlink:href="#mfid37" fill-rule="nonzero" stroke="none"/>
+											</g>
+										</g>
+									</g>
+								</g>
+							</svg>
+						</defs>
+						<!-- Unsupported Record: EmfPlusRecordTypeSetObject Obj_ImageAttributes -->
+						<g mask="url(#mfid27)">
+							<g transform="matrix(6.1761, 0, 0, 6.1763, 4.3771, 4.3771)">
+								<clipPath id="mfid38">
+									<rect x="-0.70871" y="-0.70869" width="97.149" height="97.145"/>
+								</clipPath>
+								<use xlink:href="#mfid28" clip-path="url(#mfid38)" transform="matrix(1, 0, 0, 1, 0, 0)"/>
+							</g>
+						</g>
+						<mask id="mfid39">
+							<rect width="600" height="600" fill="white" stroke="none"/>
+						</mask>
+					</g>
+				</svg>
+			</switch>
+			<rect v:rectContext="foreign" x="0" y="522.45" width="22.6772" height="22.6772" class="st30"/>
+		</g>
+		<g id="shape93-317" v:mID="93" v:groupContext="shape" transform="translate(326.103,-340.658)">
+			<title>工作表.93</title>
+			<rect v:rectContext="foreign" x="0" y="522.45" width="22.6772" height="22.6772" class="st30"/>
+			<switch>
+				<foreignObject x="0" y="522.45" width="22.6772" height="22.6772"
+						requiredExtensions="http://schemas.microsoft.com/visio/2003/SVGExtensions/">
+					<v:foreignData v:orgSize="5716" v:data="data:metafile;base64,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"/>
+				</foreignObject>
+				<!-- Unsupported Record: EmfPlusRecordTypeSetPixelOffsetMode  -->
+				<svg viewBox="-0.70871 -0.70869 600.04 600.02" height="22.6772" preserveAspectRatio="none" width="22.6772" x="0"
+						y="522.45">
+					<clipPath id="mfid40">
+						<rect x="-0.70871" y="-0.70869" width="600.04" height="600.02" id="mfid41"/>
+					</clipPath>
+					<g clip-path="url(#mfid40)">
+						<mask id="mfid42">
+							<rect width="600" height="600" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid43" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid42)">
+									<use xlink:href="#mfid41"/>
+								</g>
+							</g>
+						</mask>
+						<!-- GetDC -->
+						<mask id="mfid44" fill-rule="evenodd" fill="white" stroke="none">
+							<rect x="0" y="0" width="600" height="600"/>
+						</mask>
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid45" d="M0,0 L914400,0 L914400,914400 L0,914400 Z"/>
+						</defs>
+						<mask id="mfid46">
+							<use xlink:href="#mfid45" fill-rule="evenodd" fill="white" stroke="none"
+									transform="matrix(0.00065617, 0, 0, 0.00065617, 0, 0)"/>
+						</mask>
+						<mask id="mfid47" fill="white" stroke="none">
+							<g mask="url(#mfid43)">
+								<g mask="url(#mfid46)">
+									<use xlink:href="#mfid41"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<!-- Unsupported Record: EmfPlusRecordTypeSetPixelOffsetMode  -->
+							<svg viewBox="-0.70871 -0.70869 96.149 96.145" height="96" id="mfid48" width="96">
+								<clipPath id="mfid49">
+									<rect x="-0.70871" y="-0.70869" width="96.149" height="96.145" id="mfid50"/>
+								</clipPath>
+								<g clip-path="url(#mfid49)">
+									<mask id="mfid51">
+										<rect width="96" height="96" fill="white" stroke="none"/>
+									</mask>
+									<mask id="mfid52" fill="white" stroke="none">
+										<g>
+											<g mask="url(#mfid51)">
+												<use xlink:href="#mfid50"/>
+											</g>
+										</g>
+									</mask>
+									<defs>
+										<path id="mfid53"
+												d="M71,44 C67.1,44 64,40.9 64,37 C64,33.1 67.1,30 71,30 C74.9,30 78,33.1 78,37 C78,40.9 74.9,44 71,44 Z M82,37 C82,30.9 77.1,26 71,26 C64.9,26 60,30.9 60,37 C60,42 63.4,46.3 68,47.6 L68,71 C68,79.3 61.3,86 53,86 C44.7,86 38,79.3 38,71 L38,60.8 C48.2,59.3 56,50.6 56,40 C56,38.5 55.2,37.2 54,36.6 L54,12 C54,9 51.7,6.5 48.8,6.1 C48.4,4.9 47.3,4 46,4 L45,4 C42.8,4 41,5.8 41,8 C41,10.2 42.8,12 45,12 L46,12 C47.2,12 48.3,11.2 48.8,10.2 C49.5,10.5 50,11.2 50,12 L50,36.6 C48.8,37.3 48,38.6 48,40 C48,47.2 42.2,53 35,53 C27.8,53 22,47.2 22,40 C22,38.5 21.2,37.2 20,36.6 L20,12 C20,11.2 20.5,10.5 21.2,10.2 C21.7,11.3 22.7,12 24,12 L25,12 C27.2,12 29,10.2 29,8 C29,5.8 27.2,4 25,4 L24,4 C22.7,4 21.6,4.9 21.2,6.1 C18.3,6.5 16,9 16,12 L16,36.6 C14.8,37.3 14,38.6 14,40 C14,50.6 21.8,59.3 32,60.8 L32,71 C32,82.6 41.4,92 53,92 C64.6,92 74,82.6 74,71 L74,47.6 C78.6,46.3 82,42 82,37 Z"/>
+									</defs>
+									<g mask="url(#mfid52)">
+										<g transform="matrix(1, 0, 0, 1, 0, 0)">
+											<g fill="#000000">
+												<use xlink:href="#mfid53" fill-rule="nonzero" stroke="none"/>
+												<defs>
+													<path id="mfid54"
+															d="M76,37 C76,39.761 73.761,42 71,42 C68.239,42 66,39.761 66,37 C66,34.239 68.239,32 71,32 C73.761,32 76,34.239 76,37 Z"/>
+												</defs>
+												<use xlink:href="#mfid54" fill-rule="nonzero" stroke="none"/>
+											</g>
+										</g>
+									</g>
+								</g>
+							</svg>
+						</defs>
+						<!-- Unsupported Record: EmfPlusRecordTypeSetObject Obj_ImageAttributes -->
+						<g mask="url(#mfid47)">
+							<g transform="matrix(6.1761, 0, 0, 6.1763, 4.3771, 4.3771)">
+								<clipPath id="mfid55">
+									<rect x="-0.70871" y="-0.70869" width="97.149" height="97.145"/>
+								</clipPath>
+								<use xlink:href="#mfid48" clip-path="url(#mfid55)" transform="matrix(1, 0, 0, 1, 0, 0)"/>
+							</g>
+						</g>
+						<mask id="mfid56">
+							<rect width="600" height="600" fill="white" stroke="none"/>
+						</mask>
+					</g>
+				</svg>
+			</switch>
+			<rect v:rectContext="foreign" x="0" y="522.45" width="22.6772" height="22.6772" class="st30"/>
+		</g>
+		<g id="shape94-320" v:mID="94" v:groupContext="shape" transform="translate(8.62231,-510.736)">
+			<title>工作表.94</title>
+			<desc>The Murder of Roger Ackroyd</desc>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="385.512" cy="528.119" width="771.03" height="34.0157"/>
+			<rect x="0" y="511.111" width="771.024" height="34.0157" class="st30"/>
+			<text x="187.1" y="536.03" class="st41" v:langID="1033"><v:paragraph v:spBefore="96" v:spAfter="12" v:horizAlign="1"
+						v:bulletSize="0.166667"/><v:tabList/>The Murder of Roger Ackroyd</text>		</g>
+	</g>
+</svg>
